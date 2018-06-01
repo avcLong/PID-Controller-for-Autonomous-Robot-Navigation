@@ -1,0 +1,5 @@
+﻿  Main.cpp
+m:\modules\robotics\assignments\finalpid\finalpid\main.cpp(102): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+m:\modules\robotics\assignments\finalpid\finalpid\main.cpp(43): warning C4101: 'sum': unreferenced local variable
+  FinalPID.vcxproj -> M:\Modules\Robotics\Assignments\FinalPID\Debug\FinalPID.exe
+  FinalPID.vcxproj -> M:\Modules\Robotics\Assignments\FinalPID\Debug\FinalPID.pdb (Full PDB)
